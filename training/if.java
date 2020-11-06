@@ -1,5 +1,5 @@
-public static class iftraining
-	Public static void main(String[] args){
+public static class iftraining{
+	public static void main(String[] args){
 		Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
 		int n = scanner.nextInt;
